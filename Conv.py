@@ -37,3 +37,5 @@ if __name__ == "__main__":
     print('Conv class has been created')
     output = Conv.forward(img)
     print('Forward pass done on one image')
+    
+    
